@@ -3,3 +3,5 @@ The implementation and testing of classical algorithms (including sorting, searc
 
 IDE:      Eclipse
 Language: Java
+
+*components.jar is a library for implementing some of the codes
